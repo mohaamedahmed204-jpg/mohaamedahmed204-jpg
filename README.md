@@ -1,3 +1,7 @@
+<!-- HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mohamed%20Ahmed%20Gwiada&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
 <h1 align="center">Peace be upon you, I'm Mohamed Ahmed Gwiada</h1>
 <h2 align="center">Computer Science Student | Passionate about Software Development</h2>
 
