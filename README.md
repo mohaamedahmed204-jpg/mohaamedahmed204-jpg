@@ -17,7 +17,7 @@
   <p align="left">
     <a href="mohaamedahmed204@gmail.com">
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="45"/></a> &nbsp;
-    <a href="www.linkedin.com/in/mohamad-ahmad-gwiada-026924388">
+    <a href="[www.linkedin.com/in/mohamad-ahmad-gwiada-026924388](https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388/)">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
     <a href="https://codeforces.com/profile/mohaamedahmed204">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="45"/></a>
