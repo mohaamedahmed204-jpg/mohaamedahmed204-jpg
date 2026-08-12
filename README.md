@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/mohaamedahmed204" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mar-v-in/SimpleIcons/master/SimpleIcons/src/main/res/drawable-nodpi/ic_codeforces.png" alt="Codeforces" width="40" height="40"/>
   </a>
 </p>
 
