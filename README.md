@@ -1,39 +1,23 @@
-<h1 align="center">Peace be upon you 👋, I'm [Mohamed Ahmed Gwiada]</h1>
+<h1 align="center">Peace be upon you 👋, I'm Mohamed Ahmed Gwiada</h1>
 <h3 align="center">Computer Science Student | Passionate about Software Development</h3>
 
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&width=435&lines=Problem+Solver;C%2B%2B+%26+C%23+Developer;DevOps+%26+Cloud+Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&width=435&lines=Problem+Solver;C%2B%2B+%26+C%23+Developer;DevOps+%26+Cloud+Enthusiast)" alt="Typing SVG" />
+- 🔭 I’m currently working on **Developing my skills**
+
+- 👯 I’m looking to collaborate on **Open Source C++ Projects & Problem Solving Repositories**
+
+- 🤝 I’m looking for help with **Advanced Data Structures & Linux System Administration**
+
+- 👨‍💻 All of my projects are available at [[https://github.com/mohaamedahmed204-jpg](https://github.com/mohaamedahmed204-jpg)]([https://github.com/mohaamedahmed204-jpg](https://github.com/mohaamedahmed204-jpg))
+
+- 💬 Ask me about **C++, C#, OOP, and Competitive Programming**
+
+- ⚡ Fun fact **I enjoy solving algorithmic challenges and configuring Linux distros!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/mohaamedahmed204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mohaamedahmed204" height="30" width="40" /></a>
 </p>
 
----
-
-### 👨‍💻 About Me
-- 🎓 Student at Faculty of Computers and Information
-- 💡 Passionate about Algorithms, Problem Solving & Software Architecture
-- 🎯 Studying C++, C#, .NET, and Linux Systems
-
----
-
-### 🛠️ Skills & Tools
-<p>
-  <img src="[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" />
-</p>
-
----
-
-### 💻 Profile Details
-```cpp
-// Focused on mastering Software Development
-class Developer {
-public:
-    string status = "Learning & Building Projects";
-    string passion = "Problem Solving & Systems Architecture";
-    
-    void sayHi() {
-        cout << "Thanks for visiting my profile! 🚀";
-    }
-};
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
