@@ -16,10 +16,10 @@
 <h3 align="left">Connect & Competitive Programming:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://codeforces.com/profile/mohaamedahmed204" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Codeforces-4B0082?style=social&logo=codeforces" alt="Codeforces" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
