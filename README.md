@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=240&section=header&text=Mohamed%20Ahmed%20Gwiada&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
@@ -15,8 +14,7 @@
 - 💬 Ask me about **C++, C#, OOP, and Competitive Programming**
 - ⚡ Fun fact **I enjoy solving algorithmic challenges and configuring Linux distros!**
 
-
-
+<!-- بداية الجزء الخاص بالتقسيم -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -39,13 +37,13 @@
     </td>
     <td width="50%" align="center" valign="middle">
 
+<!-- استبدل رابط الصورة برابط الـ GIF الخاص بك -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="max-width:350px; border-radius:10px;"/>
 
     </td>
   </tr>
 </table>
-
-
+<!-- نهاية الجزء الخاص بالتقسيم -->
 
 <div align="center">
   <picture>
@@ -55,8 +53,4 @@
   </picture>
 </div>
 
-
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer"/>
-
