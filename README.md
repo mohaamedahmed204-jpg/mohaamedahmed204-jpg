@@ -65,3 +65,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
+
+p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,c#,java,git,github,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
+  </p>
