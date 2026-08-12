@@ -1,4 +1,3 @@
-<!-- HEADER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=240&section=header&text=Mohamed%20Ahmed%20Gwiada&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
@@ -10,32 +9,42 @@
 <h2 align="center">Computer Science Student | Passionate about Software Development</h2>
 
 - 🔭 I’m currently working on **Developing my skills**
-
 - 👯 I’m looking to collaborate on **Open Source C++ Projects & Problem Solving Repositories**
-
 - 🤝 I’m looking for help with **Advanced Data Structures & Linux System Administration**
-
-- 👨‍💻 All of my projects are available at [[https://github.com/mohaamedahmed204-jpg](https://github.com/mohaamedahmed204-jpg)]([https://github.com/mohaamedahmed204-jpg](https://github.com/mohaamedahmed204-jpg))
-
+- 👨‍💻 All of my projects are available at [github.com/mohaamedahmed204-jpg](https://github.com/mohaamedahmed204-jpg)
 - 💬 Ask me about **C++, C#, OOP, and Competitive Programming**
-
 - ⚡ Fun fact **I enjoy solving algorithmic challenges and configuring Linux distros!**
 
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 📤 Find me on
-  <p align="left">
-    <a href="mohaamedahmed204@gmail.com">
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="45"/></a> &nbsp;
-    <a href="https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388">
-      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
-    <a href="https://codeforces.com/profile/mohaamedahmed204">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="45"/></a>
-  </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,postman,swagger,git&perline=6" style="height:120px;"/> &nbsp;
-  </p>
+  <a href="mailto:mohaamedahmed204@gmail.com">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="40"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388">
+    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="40"/></a> &nbsp;
+  <a href="https://codeforces.com/profile/mohaamedahmed204">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="40"/></a>
+</p>
+
+### Languages and Tools:
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,postman,swagger,git&perline=5" height="100"/>
+</p>
+
+    </td>
+    <td width="50%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="max-width:350px; border-radius:10px;"/>
+
+    </td>
+  </tr>
+</table>
+
 
 
 <div align="center">
@@ -47,4 +56,7 @@
 </div>
 
 
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer"/>
+
