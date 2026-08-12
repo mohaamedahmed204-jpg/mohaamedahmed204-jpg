@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mohamed%20Ahmed%20Gwiada&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer%20Science%20Student;Software%20Development;C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms;OOP%20%7C%20Data%20Structures%20Algorithms;Future%20Software%20Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer%20Science%20Student;Software%20Development;C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms;OOP%20%7C%20Data%20Structures%20%7C%20Algorithms;Future%20Software%20Developer"/>
 </p>
 
 <h1 align="center">Peace be upon you, I'm Mohamed Ahmed Gwiada</h1>
