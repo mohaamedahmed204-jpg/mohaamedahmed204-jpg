@@ -14,36 +14,35 @@
 - 💬 Ask me about **C++, C#, OOP, and Competitive Programming**
 - ⚡ Fun fact **I enjoy solving algorithmic challenges and configuring Linux distros!**
 
-<!-- بداية الجزء الخاص بالتقسيم -->
-<table>
+<br/>
+
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-
-### 📤 Find me on
-<p align="left">
-  <a href="mailto:mohaamedahmed204@gmail.com">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="40"/></a> &nbsp;
-  <a href="https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388">
-    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="40"/></a> &nbsp;
-  <a href="https://codeforces.com/profile/mohaamedahmed204">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="40"/></a>
-</p>
-
-### Languages and Tools:
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,postman,swagger,git&perline=5" height="100"/>
-</p>
-
+    <td width="50%" valign="top" align="left">
+      <h2>📤 Find me on</h2>
+      <p>
+        <a href="mailto:mohaamedahmed204@gmail.com">
+          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="40"/>
+        </a> &nbsp;
+        <a href="https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388">
+          <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="40"/>
+        </a> &nbsp;
+        <a href="https://codeforces.com/profile/mohaamedahmed204">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="40"/>
+        </a>
+      </p>
+      <h2>Languages and Tools:</h2>
+      <p>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,postman,swagger,git&perline=5" height="100"/>
+      </p>
     </td>
-    <td width="50%" align="center" valign="middle">
-
-<!-- استبدل رابط الصورة برابط الـ GIF الخاص بك -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="max-width:350px; border-radius:10px;"/>
-
+    <td width="50%" valign="middle" align="center">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="max-width:350px; border-radius:10px;"/>
     </td>
   </tr>
 </table>
-<!-- نهاية الجزء الخاص بالتقسيم -->
+
+<br/>
 
 <div align="center">
   <picture>
