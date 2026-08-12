@@ -67,5 +67,5 @@
 </p>
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,postman,swagger,git&perline=6" style="height:80px;"/> &nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,postman,swagger,git&perline=6" style="height:110px;"/> &nbsp;
   </p>
