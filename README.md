@@ -1,5 +1,5 @@
-<h1 align="center">Peace be upon you 👋, I'm Mohamed Ahmed Gwiada</h1>
-<h3 align="center">Computer Science Student | Passionate about Software Development</h3>
+<h1 align="center">Peace be upon you, I'm Mohamed Ahmed Gwiada</h1>
+<h2 align="center">Computer Science Student | Passionate about Software Development</h2>
 
 - 🔭 I’m currently working on **Developing my skills**
 
@@ -13,15 +13,15 @@
 
 - ⚡ Fun fact **I enjoy solving algorithmic challenges and configuring Linux distros!**
 
-<h3 align="left">Connect & Competitive Programming:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://codeforces.com/profile/mohaamedahmed204" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-</p>
+### 📤 Find me on
+  <p align="left">
+    <a href="mohaamedahmed204@gmail.com">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="45"/></a> &nbsp;
+    <a href="www.linkedin.com/in/mohamad-ahmad-gwiada-026924388">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
+    <a href="https://codeforces.com/profile/mohaamedahmed204">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="45"/></a>
+  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
