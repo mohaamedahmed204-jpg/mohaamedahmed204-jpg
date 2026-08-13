@@ -16,7 +16,7 @@
 
 <div align="left">
   <h3>🔭 I’m currently working on <b>Developing my skills</b></h3>
-  <h3>👯 I’m looking to collaborate on <b>Open Source C++ Projects & Problem Solving Repositories</b></h3>
+  <h3>🛠 I’m looking to collaborate on <b>Open Source C++ Projects & Problem Solving Repositories</b></h3>
   <h3>🤝 I’m looking for help with <b>Advanced Data Structures & Linux System Administration</b></h3>
   <h3>👨‍💻 All of my projects are available at <a href="https://github.com/mohaamedahmed204-jpg">github.com/mohaamedahmed204-jpg</a></h3>
   <h3>💬 Ask me about <b>C++, C#, OOP, and Competitive Programming</b></h3>
