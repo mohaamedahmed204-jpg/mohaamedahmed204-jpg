@@ -137,14 +137,14 @@
   <!-- NOME PRINCIPAL (Tipografia Premium com Glow Nítido) -->
   <g>
     <text x="65" y="130" class="main-title" style="text-shadow: 0 0 10px #FF1A4B, 0 0 2px #FFFFFF;">
-      GABRIEL FERREIRA
+      Mohamed Ahmed Gwiada
     </text>
   </g>
 
   <!-- SUBTÍTULO (Efeito Máquina de Escrever) -->
   <g>
     <text x="65" y="168" class="sub-title" clip-path="url(#typing-clip)">
-      Computer Science Student | Full Stack Developer
+      Computer Science Student | Passionate about Software Development
     </text>
     
     <!-- Cursor do Terminal Dinâmico -->
