@@ -55,7 +55,7 @@
     </td>
     <td width="50%" valign="middle" align="center">
       <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,msql,swagger,git&perline=5" height="100"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,mysql,swagger,git&perline=5" height="100"/>
       </p>
     </td>
   </tr>
