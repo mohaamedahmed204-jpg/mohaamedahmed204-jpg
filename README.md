@@ -50,7 +50,7 @@
       </p>
       <h2>Languages and Tools:</h2>
       <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,postman,swagger,git&perline=5" height="100"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,mssql,swagger,git&perline=5" height="100"/>
       </p>
     </td>
     <td width="50%" valign="middle" align="center">
