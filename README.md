@@ -1,4 +1,10 @@
 
+
+<p align="center">
+  <img src="banner.svg?v=3" alt="Mohamed Ahmed Gwiada Crimson Banner" width="100%" />
+</p>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=240&section=header&text=Mohamed%20Ahmed%20Gwiada&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 
