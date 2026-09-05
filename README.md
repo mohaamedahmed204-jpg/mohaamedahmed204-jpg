@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="banner.svg?v=3" alt="Mohamed Ahmed Gwiada Crimson Banner" width="100%" />
+  <img src="banner.svg?v=3" alt="Mohamed Ahmed Gwiada" width="100%" />
 </p>
 
 
