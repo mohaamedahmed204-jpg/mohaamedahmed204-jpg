@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer%20Science%20Student;Software%20Development;C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms%20%7C%20SQL%20Server;OOP%20%7C%20Data%20Structures%20%7C%20Algorithms;Future%20Software%20Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF1A4B&center=true&vCenter=true&width=700&lines=Computer%20Science%20Student;Software%20Development;C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms%20%7C%20SQL%20Server;OOP%20%7C%20Data%20Structures%20%7C%20Algorithms;Future%20Software%20Developer"/>
 </p>
 
 
