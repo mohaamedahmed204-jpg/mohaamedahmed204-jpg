@@ -1,4 +1,4 @@
-
+  
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=240&section=header&text=Mohamed%20Ahmed%20Gwiada&fontSize=42&fontColor=ffffff&animation=fadeIn"/> -->
 
 
@@ -50,7 +50,7 @@
       </p>
       <h2>Languages and Tools:</h2>
       <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,mssql,swagger,git&perline=5" height="100"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,msql,swagger,git&perline=5" height="100"/>
       </p>
     </td>
     <td width="50%" valign="middle" align="center">
