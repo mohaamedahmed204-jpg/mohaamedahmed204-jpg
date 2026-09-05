@@ -50,7 +50,7 @@
       </p>
       <h2>Languages and Tools:</h2>
       <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux, vscode, visualstudio, github,git&perline=5" height="100"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,vscode,visualstudio,github,git&perline=5" height="100"/>
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40"/>
       </p>
     </td>
