@@ -75,4 +75,10 @@
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=20&fontColor=FFFFFF"/>
+
+<p align="center" style="margin-top: 30px;">
+  <img src="footer.svg?v=3" alt="Footer" width="100%" />
+</p>
+
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=20&fontColor=FFFFFF"/> -->
