@@ -50,12 +50,13 @@
       </p>
       <h2>Languages and Tools:</h2>
       <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,msql,swagger,git&perline=5" height="100"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,swagger,git&perline=5" height="100"/>
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40"/>
       </p>
     </td>
     <td width="50%" valign="middle" align="center">
       <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,swagger,git&perline=5" height="100"/>
+       <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="max-width:350px; border-radius:10px;"/>
       </p>
     </td>
   </tr>
