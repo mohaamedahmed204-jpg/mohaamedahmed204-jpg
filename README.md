@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Gwiadabanner.svg?v=3" alt="Banner" width="100%" />
+  <img src="Gwiada's banner.svg?v=3" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
