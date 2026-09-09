@@ -46,18 +46,6 @@
         0%, 100% { opacity: 0.1; transform: scale(0.8); }
         50% { opacity: 0.85; transform: scale(1.2); filter: drop-shadow(0 0 3px #FF1A4B); }
       }
-
-      /* Cursor de Digitação */
-      .cursor-mover {
-        transform: translateX(0);
-        animation: typeCursor 10s linear infinite;
-      }
-      @keyframes typeCursor {
-        0% { transform: translateX(0); }
-        /* القيمة المعدلة هنا لجعل المؤشر يقف عند نهاية الجملة بالضبط */
-        45%, 85% { transform: translateX(600px); }
-        95%, 100% { transform: translateX(0); }
-      }
     </style>
 
     <!-- Filtro de Glow Premium Nítido -->
@@ -93,11 +81,10 @@
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#130507" stroke-width="0.6" />
     </pattern>
 
-    <!-- Máscara de Digitação -->
+    <!-- Máscara de Digitação (تم توسيع العرض إلى 750 لتغطية النص بالكامل) -->
     <clipPath id="typing-clip">
       <rect x="65" y="152" height="30" width="0">
-        <!-- القيمة المعدلة لعرض القص لتلائم حركة المؤشر -->
-        <animate attributeName="width" values="0; 600; 600; 0; 0" keyTimes="0; 0.45; 0.85; 0.95; 1" dur="10s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0; 750; 750; 0; 0" keyTimes="0; 0.45; 0.85; 0.95; 1" dur="10s" repeatCount="indefinite" />
       </rect>
     </clipPath>
   </defs>
@@ -117,41 +104,32 @@
     <circle cx="340" cy="85" r="2.2" class="star-particle" style="animation-delay: 1s; animation-duration: 5.5s;" />
   </g>
 
-  <!-- ONDAS E FILAMENTOS DE LUZ (Efeito fita de energia cinemática fluida) -->
+  <!-- ONDAS E FILAMENTOS DE LUZ -->
   <g filter="url(#neon-glow-refined)">
-    <!-- Filamento Profundo Lento -->
     <path class="wave-flow-3" fill="none" stroke="url(#wave-grad-b)" stroke-width="1.2" 
       d="M 0 205 C 212.5 130, 212.5 280, 425 205 C 637.5 130, 637.5 280, 850 205 C 1062.5 130, 1062.5 280, 1275 205 C 1487.5 130, 1487.5 280, 1700 205" />
     
-    <!-- Filamento Principal Espesso -->
     <path class="wave-flow-1" fill="none" stroke="url(#wave-grad-a)" stroke-width="3" 
       d="M 0 190 C 212.5 100, 212.5 280, 425 190 C 637.5 100, 637.5 280, 850 190 C 1062.5 100, 1062.5 280, 1275 190 C 1487.5 100, 1487.5 280, 1700 190" />
     
-    <!-- Filamento de Destaque Fino -->
     <path class="wave-flow-2" fill="none" stroke="url(#wave-grad-a)" stroke-width="1.2" 
       d="M 0 180 C 212.5 115, 212.5 245, 425 180 C 637.5 115, 637.5 245, 850 180 C 1062.5 115, 1062.5 245, 1275 180 C 1487.5 115, 1487.5 245, 1700 180" />
 
-    <!-- Filamento Rápido de Contraste -->
     <path class="wave-flow-4" fill="none" stroke="#FF5E84" stroke-width="0.8" style="animation-delay: -1.5s;"
       d="M 0 195 C 212.5 135, 212.5 255, 425 195 C 637.5 135, 637.5 255, 850 195 C 1062.5 135, 1062.5 255, 1275 195 C 1487.5 135, 1487.5 255, 1700 195" />
   </g>
 
-  <!-- NOME PRINCIPAL (Tipografia Premium com Glow Nítido) -->
+  <!-- NOME PRINCIPAL -->
   <g>
     <text x="65" y="130" class="main-title" style="text-shadow: 0 0 10px #FF1A4B, 0 0 2px #FFFFFF;">
       Mohamed Ahmed Gwiada
     </text>
   </g>
 
-  <!-- SUBTÍTULO (Efeito Máquina de Escrever) -->
+  <!-- SUBTÍTULO (مع أنيميشن الكتابة وبدون المؤشر) -->
   <g>
     <text x="65" y="168" class="sub-title" clip-path="url(#typing-clip)">
       Computer Science Student | Passionate about Software Development
     </text>
-    
-    <!-- Cursor do Terminal Dinâmico -->
-    <rect class="cursor-mover" x="65" y="152" width="3" height="18" fill="#FF1A4B" filter="url(#neon-glow-refined)">
-      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" />
-    </rect>
   </g>
 </svg>
