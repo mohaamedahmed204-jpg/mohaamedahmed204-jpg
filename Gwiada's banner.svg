@@ -126,7 +126,6 @@
     </text>
   </g>
 
-  <!-- SUBTÍTULO (مع أنيميشن الكتابة وبدون المؤشر) -->
   <g>
     <text x="65" y="168" class="sub-title" clip-path="url(#typing-clip)">
       Computer Science Student | Passionate about Software Development
