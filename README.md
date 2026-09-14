@@ -13,7 +13,7 @@
 
 
 <h1 align="center">Peace be upon you, I'm Mohamed Ahmed Gwiada.</h1>
-<h2 align="center">Computer Science Student | Passionate about Software Development</h2>
+<h2 align="center">Computer Science Student | Passionate about Software Development.</h2>
 
 
 
