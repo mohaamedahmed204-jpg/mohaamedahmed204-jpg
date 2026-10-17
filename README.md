@@ -37,7 +37,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top" align="left">
-      <h2>📤 Find me on</h2>
+      <h2>📤 Find me on:</h2>
       <p>
         <a href="mailto:mohaamedahmed204@gmail.com">
           <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="40"/>
