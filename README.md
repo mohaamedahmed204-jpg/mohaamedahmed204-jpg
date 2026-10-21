@@ -22,7 +22,7 @@
 ## 🚀 About Me
 <!-- Animated coding image -->
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding animation" />
 </p>
 
 
