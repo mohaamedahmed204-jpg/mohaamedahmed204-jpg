@@ -76,6 +76,9 @@
 ### ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Motivation
+![](https://readme-typing-svg.herokuapp.com?lines=Keep+Learning+Every+Day;Problem+Solving+Mindset;Think+Before+You+Code;Clean+Code+Matters;Build+Strong+Foundations)
+![](https://readme-typing-svg.herokuapp.com?lines=Consistency+Beats+Talent;Problem+Solving+First;Logic+Over+Luck;Learning+Never+Stops;Step+By+Step+Growth)
 
 
 # 🔥 GitHub Streak
