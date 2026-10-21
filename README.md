@@ -21,9 +21,11 @@
 
 ## 🚀 About Me
 <!-- Animated coding image -->
+<div align="right">
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
 </p>
+</div>
 
 <div align="left">
   <h3>🔭 I’m currently working on <b>Developing my skills.</b></h3>
