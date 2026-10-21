@@ -19,6 +19,12 @@
 
 <br/>
 
+## 🚀 About Me
+<!-- Animated coding image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+</p>
+
 <div align="left">
   <h3>🔭 I’m currently working on <b>Developing my skills.</b></h3>
   <h3>🛠 I’m looking to collaborate on <b>Open Source C++/C# Projects & Problem Solving Repositories.</b></h3>
