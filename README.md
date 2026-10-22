@@ -18,7 +18,7 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ===================== ABOUT ME + CONTACT + TOOLS (one full-width table) ===================== -->
 <h2 align="center">🚀 About Me</h2>
 
 <table align="center" border="0" width="100%">
@@ -35,37 +35,29 @@
       <h3>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring Linux distros!</h3>
     </td>
   </tr>
-</table>
-
-<br/>
-
----
-
-<!-- ===================== CONTACT & TOOLS ===================== -->
-<table align="center" border="0" width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="40%" align="center" valign="top">
       <h2>📤 Find Me On</h2>
       <p align="center">
         <a href="mailto:mohaamedahmed204@gmail.com">
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="48" alt="Gmail" />
+          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="64" alt="Gmail" />
         </a>
-        &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/mohamad-ahmad-gwiada-026924388">
-          <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="48" alt="LinkedIn" />
+          <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="64" alt="LinkedIn" />
         </a>
-        &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://codeforces.com/profile/mohaamedahmed204">
-          <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="48" alt="Codeforces" />
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="64" alt="Codeforces" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="60%" align="center" valign="top">
       <h2>🛠 Languages & Tools</h2>
       <p align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,vscode,visualstudio,github,git&perline=5" height="120" alt="Languages and tools" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,bash,linux,vscode,visualstudio,github,git&perline=5" height="150" alt="Languages and tools" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="36" alt="Microsoft SQL Server" />
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" alt="Microsoft SQL Server" />
       </p>
     </td>
   </tr>
