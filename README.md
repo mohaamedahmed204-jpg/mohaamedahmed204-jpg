@@ -32,7 +32,7 @@
       <h3>🤝 <b>Looking for help with:</b> Advanced Data Structures & Linux System Administration</h3>
       <h3>👨‍💻 <b>My projects:</b> <a href="https://github.com/mohaamedahmed204-jpg">github.com/mohaamedahmed204-jpg</a></h3>
       <h3>💬 <b>Ask me about:</b> C++, C#, OOP, and Competitive Programming</h3>
-      <h3>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring Linux distros!</h3>
+      <h3>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring GNU/Linux distros!</h3>
     </td>
   </tr>
   <tr>
