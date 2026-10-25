@@ -71,7 +71,7 @@
 <h2 align="center">✍️ Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" width="600px" style="max-width: 100%;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" width="600px" style="max-width: 300%;" />
 </p>
 
 <!--
