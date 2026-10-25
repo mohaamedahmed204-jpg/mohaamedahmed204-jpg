@@ -70,7 +70,9 @@
 <!-- ===================== QUOTE & MOTIVATION ===================== -->
 <h2 align="center">✍️ Dev Quote</h2>
 
+<!--
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 <!--
 <p align="center">
@@ -80,11 +82,10 @@
 </p>
 -->
 
-<!--
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" width="80%" />
 </p>
--->
+
 
 <h2 align="center">🔝 Motivation</h2>
 
