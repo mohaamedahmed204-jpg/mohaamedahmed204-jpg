@@ -82,8 +82,8 @@
 </p>
 -->
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" width="100%" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" width="80%" />
 </p>
 
 
