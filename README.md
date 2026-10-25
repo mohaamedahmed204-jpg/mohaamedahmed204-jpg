@@ -70,11 +70,15 @@
 <!-- ===================== QUOTE & MOTIVATION ===================== -->
 <h2 align="center">✍️ Dev Quote</h2>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--
 <p align="center">
   <div style="max-width: 600px; margin: 0 auto;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" width="100%" />
   </div>
 </p>
+-->
 
 <!--
 <p align="center">
