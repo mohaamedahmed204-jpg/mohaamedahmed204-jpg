@@ -95,19 +95,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=50&lines=Consistency+Beats+Talent;Problem+Solving+First;Logic+Over+Luck;Learning+Never+Stops;Step+By+Step+Growth" alt="Motivation line 2" />
 </p>
 
+<br/>
 
-<p align="right">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="275px">
-</p>
-
-
-<p align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="275"/>
-</p>
-
-<p align="left">
-<img src="https://i.redd.it/bpxxqqvps4h91.gif" width="275px">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="250"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://i.redd.it/bpxxqqvps4h91.gif" width="250px">
+    </td>
+  </tr>
+</table>
 
 <br/>
 
