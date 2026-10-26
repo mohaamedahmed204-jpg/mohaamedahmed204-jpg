@@ -89,7 +89,7 @@
 
 <h2 align="center">🔝 Motivation</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=50&lines=Keep+Learning+Every+Day;Problem+Solving+Mindset;Think+Before+You+Code;Clean+Code+Matters;Build+Strong+Foundations" alt="Motivation line 1" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=50&lines=Consistency+Beats+Talent;Problem+Solving+First;Logic+Over+Luck;Learning+Never+Stops;Step+By+Step+Growth" alt="Motivation line 2" />
