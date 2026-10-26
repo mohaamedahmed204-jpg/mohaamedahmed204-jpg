@@ -106,7 +106,7 @@
 </p>
 
 <p align="left">
-<img src="https://i.redd.it/bpxxqqvps4h91.gif">
+<img src="https://i.redd.it/bpxxqqvps4h91.gif" width="275px">
 </p>
 
 <br/>
