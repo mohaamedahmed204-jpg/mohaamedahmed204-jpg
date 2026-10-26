@@ -95,9 +95,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=50&lines=Consistency+Beats+Talent;Problem+Solving+First;Logic+Over+Luck;Learning+Never+Stops;Step+By+Step+Growth" alt="Motivation line 2" />
 </p>
 
+
 <p align="right">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px">
 </p>
+
+
+<p align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420"/>
+</p>
+
 
 <br/>
 
