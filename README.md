@@ -106,7 +106,7 @@
       <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="250"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://i.redd.it/bpxxqqvps4h91.gif" width="275px">
+      <img src="https://i.redd.it/bpxxqqvps4h91.gif" width="250px">
     </td>
   </tr>
 </table>
