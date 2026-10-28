@@ -27,7 +27,7 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
     </td>
     <td width="60%" align="left" valign="middle">
-      <h3>🔭 <b>Currently working on:</b> Developing my skills</h3>
+      <h3>🔭 <b>Currently working on:</b> Developing my hard/soft skills</h3>
       <h3>🛠 <b>Looking to collaborate on:</b> Open Source C++/C# Projects & Problem Solving Repositories</h3>
       <h3>🤝 <b>Looking for help with:</b> Advanced Data Structures & Linux System Administration</h3>
       <h3>👨‍💻 <b>My projects:</b> <a href="https://github.com/mohaamedahmed204-jpg?tab=repositories">github.com/mohaamedahmed204-jpg</a></h3>
