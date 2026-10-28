@@ -30,7 +30,7 @@
       <h3>🔭 <b>Currently working on:</b> Developing my skills</h3>
       <h3>🛠 <b>Looking to collaborate on:</b> Open Source C++/C# Projects & Problem Solving Repositories</h3>
       <h3>🤝 <b>Looking for help with:</b> Advanced Data Structures & Linux System Administration</h3>
-      <h3>👨‍💻 <b>My projects:</b> <a href="[https://github.com/mohaamedahmed204-jpg](https://github.com/mohaamedahmed204-jpg?tab=repositories)">github.com/mohaamedahmed204-jpg</a></h3>
+      <h3>👨‍💻 <b>My projects:</b> <a href="https://github.com/mohaamedahmed204-jpg?tab=repositories">github.com/mohaamedahmed204-jpg</a></h3>
       <h3>💬 <b>Ask me about:</b> C++, C#, OOP, and Competitive Programming</h3>
       <h3>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring GNU/Linux distros!</h3>
     </td>
