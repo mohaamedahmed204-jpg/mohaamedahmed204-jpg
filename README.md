@@ -27,7 +27,7 @@
     <td valign="middle">
       <ul>
         <li>🔭 <b>Currently working on:</b> Developing my hard/soft skills.</li>
-        <li>🛠 <b>Looking to collaborate on:</b> Open Source C++/C# Projects &amp; Problem Solving Repositories</li>
+        <li>🛠 <b>Looking to collaborate on:</b> Open Source C++/C# Projects &amp; Problem Solving Repositories.</li>
         <li>🤝 <b>Looking for help with:</b> Advanced Data Structures &amp; Linux System Administration</li>
         <li>👨‍💻 <b>My projects:</b> <a href="https://github.com/mohaamedahmed204-jpg?tab=repositories">github.com/mohaamedahmed204-jpg</a></li>
         <li>💬 <b>Ask me about:</b> C++, C#, OOP, and Competitive Programming</li>
