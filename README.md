@@ -112,7 +112,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohaamedahmed204%2Djpg&theme=tokyonight" alt="GitHub Streak" width="650" />
+  <img src="https://streak-stats.demolab.com/?user=mohaamedahmed204-jpg&theme=tokyonight" alt="GitHub Streak" width="650" />
 </p>
 
 
