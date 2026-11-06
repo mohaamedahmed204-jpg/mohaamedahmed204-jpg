@@ -80,15 +80,15 @@
 
 ---
 
-<!-- ===================== MOTIVATION ===================== -->
-<h2 align="center">🔝 Motivation</h2>
+<!-- ==================== MOTIVATION ==================== -->
+<h2 align="center"><img src="YOUR_TOP_ICON" height="22" /> Motivation</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=45&lines=Keep+Learning+Every+Day;Problem+Solving+Mindset;Think+Before+You+Code;Clean+Code+Matters;Build+Strong+Foundations" alt="Motivation line 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=45&duration=3000&pause=1000&lines=Keep+Learning+Every+Day;Think+Before+You+Code;Build+Strong+Foundations;Code+Today+Shape+Tomorrow;Small+Steps+Big+Results;Debug+Your+Way+To+Growth;Dream+Big+Code+Bigger;Practice+Makes+Progress;Stay+Curious+Stay+Coding;Clean+Code+Always+Wins" alt="Motivation line 1" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=45&lines=Consistency+Beats+Talent;Problem+Solving+First;Logic+Over+Luck;Learning+Never+Stops;Step+By+Step+Growth" alt="Motivation line 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=45&duration=3000&pause=1000&lines=Consistency+Beats+Talent;Problem+Solving+First;Logic+Over+Luck+Always;Learning+Never+Stops;Step+By+Step+Growth;Focus+On+The+Process;Every+Bug+Teaches+You;Never+Stop+Improving;Progress+Over+Perfection;Write+Code+Solve+Problems" alt="Motivation line 2" />
 </p>
 
 <table align="center">
