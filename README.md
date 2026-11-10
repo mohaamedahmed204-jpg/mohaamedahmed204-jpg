@@ -1,6 +1,6 @@
 
 
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== BANNER ======================= -->
 <p align="center">
   <img src="Gwiada's banner.svg?v=3" alt="Mohamed Ahmed Gwiada Banner" width="100%" />
 </p>
