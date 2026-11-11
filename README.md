@@ -19,25 +19,26 @@
 <!-- ===================== ABOUT ME ===================== -->
 <h2 align="center">📝 About Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle" width="45%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding animation" />
-    </td>
-    <td valign="middle" width="55%">
-      <h3>🔭 <b>Currently working on:</b> Developing my hard/soft skills.</h3>
-      <h3>🛠 <b>Looking to collaborate on:</b> Open Source C++/C# Projects &amp; Problem Solving Repositories.</h3>
-      <h3>🤝 <b>Looking for help with:</b> Advanced Data Structures &amp; GNU/Linux System Administration.</h3>
-      <h3>👨‍💻 <b>My projects on:</b> <a href="https://github.com/mohaamedahmed204-jpg?tab=repositories">github.com/mohaamedahmed204-jpg</a></h3>
-      <h3>💬 <b>Ask me about:</b> C++, C# (Windows Forms), OOP, and Competitive Programming.</h3>
-      <h3>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring GNU/Linux distros!</h3>
-      <h3>🧰 <b>Tech stack:</b> C++, C#, .NET, MS SQL Server.</h3>
-      <h3>🏆 <b>Competitive Programming:</b> Solving problems on Codeforces.</h3>
-      <h3>🌐 <b>Building:</b> My personal portfolio website.</h3>
-      <h3>🌱 <b>Currently learning:</b> Advanced Data Structures &amp; Linux administration.</h3>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation" />
+</p>
+
+<ul>
+  <li>🔭 <b>Currently working on:</b> Developing my hard/soft skills.</li>
+  <li>🛠 <b>Looking to collaborate on:</b> Open Source C++/C# Projects &amp; Problem Solving Repositories.</li>
+  <li>🤝 <b>Looking for help with:</b> Advanced Data Structures &amp; GNU/Linux System Administration.</li>
+  <li>👨‍💻 <b>My projects on:</b> <a href="https://github.com/mohaamedahmed204-jpg?tab=repositories">github.com/mohaamedahmed204-jpg</a></li>
+  <li>💬 <b>Ask me about:</b> C++, C# (Windows Forms), OOP, and Competitive Programming.</li>
+  <li>🧰 <b>Tech stack:</b> C++, C#, .NET, MS SQL Server.</li>
+  <li>🏆 <b>Competitive Programming:</b> Solving problems on Codeforces.</li>
+  <li>🌐 <b>Building:</b> My personal portfolio website.</li>
+  <li>🗄 <b>Database work:</b> Designing and querying relational databases with MS SQL Server.</li>
+  <li>🖥 <b>Desktop apps:</b> Building Windows Forms applications with C# and .NET.</li>
+  <li>🐧 <b>Linux:</b> Configuring and troubleshooting GNU/Linux distros.</li>
+  <li>🌱 <b>Currently learning:</b> Advanced Data Structures &amp; Linux administration.</li>
+  <li>🎯 <b>Goal:</b> Becoming a strong software engineer and contributing to open source.</li>
+  <li>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring GNU/Linux distros!</li>
+</ul>
 
 ---
 
