@@ -46,7 +46,7 @@
 <h3>❤️ Interests &amp; Passions</h3>
 <ul>
   <li>🐧 <b>Linux:</b> Configuring and troubleshooting GNU/Linux distros.</li>
-  <li>🧩 <b>Problem solving:</b> Enjoying algorithmic challenges and competitive programming.</li>
+  <li>🧠 <b>Problem solving:</b> Enjoying algorithmic challenges and competitive programming.</li>
   <li>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring GNU/Linux distros!</li>
 </ul>
 
