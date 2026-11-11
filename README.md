@@ -23,24 +23,32 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding animation" />
 </p>
 
-<h3>
-  <ul>
-    <li>🔭 <b>Currently working on:</b> Developing my hard/soft skills.</li>
-    <li>🛠 <b>Looking to collaborate on:</b> Open Source C++/C# Projects &amp; Problem Solving Repositories.</li>
-    <li>🤝 <b>Looking for help with:</b> Advanced Data Structures &amp; GNU/Linux System Administration.</li>
-    <li>👨‍💻 <b>My projects on:</b> <a href="https://github.com/mohaamedahmed204-jpg?tab=repositories">github.com/mohaamedahmed204-jpg</a></li>
-    <li>💬 <b>Ask me about:</b> C++, C# (Windows Forms), OOP, and Competitive Programming.</li>
-    <li>🧰 <b>Tech stack:</b> C++, C#, .NET, MS SQL Server.</li>
-    <li>🏆 <b>Competitive Programming:</b> Solving problems on Codeforces.</li>
-    <li>🌐 <b>Building:</b> My personal portfolio website.</li>
-    <li>🗄 <b>Database work:</b> Designing and querying relational databases with MS SQL Server.</li>
-    <li>🖥 <b>Desktop apps:</b> Building Windows Forms applications with C# and .NET.</li>
-    <li>🐧 <b>Linux:</b> Configuring and troubleshooting GNU/Linux distros.</li>
-    <li>🌱 <b>Currently learning:</b> Advanced Data Structures &amp; Linux administration.</li>
-    <li>🎯 <b>Goal:</b> Becoming a strong software engineer and contributing to open source.</li>
-    <li>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring GNU/Linux distros!</li>
-  </ul>
-</h3>
+<h3>👤 Quick Overview</h3>
+<ul>
+  <li>🔭 <b>Currently working on:</b> Developing my hard/soft skills.</li>
+  <li>🌱 <b>Currently learning:</b> Advanced Data Structures &amp; Linux administration.</li>
+  <li>🎯 <b>Goal:</b> Becoming a strong software engineer and contributing to open source.</li>
+  <li>🛠 <b>Looking to collaborate on:</b> Open Source C++/C# Projects &amp; Problem Solving Repositories.</li>
+  <li>🤝 <b>Looking for help with:</b> Advanced Data Structures &amp; GNU/Linux System Administration.</li>
+  <li>👨‍💻 <b>My projects on:</b> <a href="https://github.com/mohaamedahmed204-jpg?tab=repositories">github.com/mohaamedahmed204-jpg</a></li>
+</ul>
+
+<h3>🧰 Technical Skills</h3>
+<ul>
+  <li>💬 <b>Languages:</b> C++, C# (Windows Forms), OOP.</li>
+  <li>🧰 <b>Tech stack:</b> C++, C#, .NET, MS SQL Server.</li>
+  <li>🏆 <b>Competitive Programming:</b> Solving problems on Codeforces.</li>
+  <li>🗄 <b>Database work:</b> Designing and querying relational databases with MS SQL Server.</li>
+  <li>🖥 <b>Desktop apps:</b> Building Windows Forms applications with C# and .NET.</li>
+  <li>🌐 <b>Building:</b> My personal portfolio website.</li>
+</ul>
+
+<h3>❤️ Interests &amp; Passions</h3>
+<ul>
+  <li>🐧 <b>Linux:</b> Configuring and troubleshooting GNU/Linux distros.</li>
+  <li>🧩 <b>Problem solving:</b> Enjoying algorithmic challenges and competitive programming.</li>
+  <li>⚡ <b>Fun fact:</b> I enjoy solving algorithmic challenges and configuring GNU/Linux distros!</li>
+</ul>
 
 ---
 
